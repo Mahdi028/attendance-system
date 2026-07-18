@@ -1,0 +1,1 @@
+A smart attendance management system built with Python, Face Recognition, OpenCV, SQLite, and CustomTkinter. The system provides employee management, facial recognition-based check-in/check-out, attendance tracking, and administrative reporting features.
